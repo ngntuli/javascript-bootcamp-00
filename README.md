@@ -1,1 +1,1 @@
-# python_bootcamp_00
+# javaScriptBootcamp00
