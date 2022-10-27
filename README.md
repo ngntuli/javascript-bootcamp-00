@@ -1,1 +1,1 @@
-# javaScriptBootcamp00
+# javascript-bootcamp-00
